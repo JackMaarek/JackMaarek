@@ -1,37 +1,37 @@
 <div align="left">
-<h1>Hello there 👋</h1>
- 
+ <h1>Hello there 👋</h1>
 
-<h2>See more of my profile at :</h2>
-<span style="display:inline;">
 
-<a href ="https://www.linkedin.com/in/jacques-maarek-384b23116/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin.com"/></a>
+ <h2>See more of my profile at :</h2>
+ <span style="display:inline;">
 
-<a href="https://gitlab.com/JackMaarek"/><img src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab.com" ></a>
-  
-<p>Young developer with serveral experiences in:</p>
-  <ul>
-    <li>CyberSecurity</li>
-    <li>DevOps</li>
-    <li>E-Commerce</li>
-    <li>Real estate</li>
-  </ul>
+ <a href ="https://www.linkedin.com/in/jacques-maarek-384b23116/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin.com"/></a>
 
-</span>
+ <a href="https://gitlab.com/JackMaarek"/><img src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab.com" ></a>
 
-- 🔭 I’m currently working on self improvement.
-- 🌱 I’m currently learning golang.
+ <p>Young developer with serveral experiences in:</p>
+   <ul>
+     <li>CyberSecurity</li>
+     <li>DevOps</li>
+     <li>E-Commerce</li>
+     <li>Real estate</li>
+   </ul>
 
-<h2> My stats </h2>
- <div align="center">
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JackMaarek&show_icons=true&theme=radical)
+ </span>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackMaarek&layout=compact&theme=radical&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
+ - 🔭 I’m currently working on self improvement.
+ - 🌱 I’m currently learning golang.
+
+ <h2> My stats </h2>
+ <div>
+  <img alt="" src="https://github-readme-stats.vercel.app/api?username=JackMaarek&show_icons=true&theme=radical"/>
+
+  <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackMaarek&layout=compact&theme=radical&hide=javascript,html,css"/>
  </div>
 </div>
 
 <details>	
-  <summary><b>My skills</b></summary>
+  <h2><b>My skills</b></h2>
 
   <br />
   <img alt="AWS" src="https://img.shields.io/badge/aws-FF9900.svg?&style=for-the-badge&logo=amazon&logoColor=white"/>

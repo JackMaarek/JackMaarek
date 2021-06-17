@@ -39,7 +39,9 @@
   <img alt="Elixir" src="https://img.shields.io/badge/Elixir-553764.svg?&style=for-the-badge&logo=elixir&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+  <img alt="SonarQube" src="https://img.shields.io/badge/SonarQube-4c9bd6.svg?&style=for-the-badge&logo=sonarqube&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="KaliLinux" src="https://img.shields.io/badge/Kali_Linux-527d97.svg?&style=for-the-badge&logo=kali-linux&logoColor=white"/>
   <img alt="Raspberry Pi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
+  <img alt="Atlassian" src="https://img.shields.io/badge/JIRA_&_CONFLUENCE-004fc6.svg?&style=for-the-badge&logo=atlassian&logoColor=white"/>
 </details>

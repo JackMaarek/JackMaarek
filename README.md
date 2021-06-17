@@ -24,9 +24,9 @@
 
 <h2> My stats </h2>
  <div align="center">
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JackMaarek&show_icons=true&theme=radical)
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JackMaarek&show_icons=true&theme=radical)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackMaarek&layout=compact&theme=radical&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackMaarek&layout=compact&theme=radical&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
  </div>
 </div>
 

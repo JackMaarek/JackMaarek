@@ -30,7 +30,7 @@
  </div>
 </div>
 
-<details>	
+<div align="center">
   <h2><b>My skills</b></h2>
 
   <br />
@@ -46,4 +46,4 @@
   <img alt="KaliLinux" src="https://img.shields.io/badge/Kali_Linux-527d97.svg?&style=for-the-badge&logo=kali-linux&logoColor=white"/>
   <img alt="Raspberry Pi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
   <img alt="Atlassian" src="https://img.shields.io/badge/JIRA_&_CONFLUENCE-004fc6.svg?&style=for-the-badge&logo=atlassian&logoColor=white"/>
-</details>
+</div>

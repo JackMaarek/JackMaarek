@@ -2,7 +2,7 @@
 <h1>Hello there 👋</h1>
  
 
-<h2>See more of my profifle at :</h2>
+<h2>See more of my profile at :</h2>
 <span style="display:inline;">
 
 <a href ="https://www.linkedin.com/in/jacques-maarek-384b23116/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin.com"/></a>
@@ -33,6 +33,7 @@
 
   <br />
   <img alt="AWS" src="https://img.shields.io/badge/aws-FF9900.svg?&style=for-the-badge&logo=amazon&logoColor=white"/>
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-ffffff.svg?&style=for-the-badge&logo=terraform&logoColor=purple"/>
   <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
   <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
   <img alt="Elixir" src="https://img.shields.io/badge/Elixir-553764.svg?&style=for-the-badge&logo=elixir&logoColor=white"/>

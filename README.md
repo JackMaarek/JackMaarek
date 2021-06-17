@@ -30,9 +30,8 @@
  </div>
 </div>
 
+<h2><b>My skills</b></h2>
 <div align="center">
-  <h2><b>My skills</b></h2>
-
   <br />
   <img alt="AWS" src="https://img.shields.io/badge/aws-FF9900.svg?&style=for-the-badge&logo=amazon&logoColor=white"/>
   <img alt="Terraform" src="https://img.shields.io/badge/Terraform-ffffff.svg?&style=for-the-badge&logo=terraform&logoColor=purple"/>

@@ -26,6 +26,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackMaarek&layout=compact&theme=radical&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
 
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=edwinvautier&hide_border=true" />
+
 </div>
 
 <details>	

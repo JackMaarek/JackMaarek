@@ -34,12 +34,12 @@
     </li>
 </ul>
 
- <p>I love working on/p>
+ <p>I love working on</p>
    <ul>
      <li>Dev Backend</li>
      <li>DevOps</li>
-     <li>DevOps</li>
      <li>Blockchain</li>
+     <li>Avocados</li>
    </ul>
 
  </span>

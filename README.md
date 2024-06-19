@@ -11,16 +11,13 @@
 
  <p>Young developer with serveral experiences in:</p>
    <ul>
-     <li>CyberSecurity</li>
+     <li>Dev Backend</li>
      <li>DevOps</li>
-     <li>E-Commerce</li>
-     <li>Real estate</li>
+     <li>Blockchain</li>
+     <li>Real Estate</li>
    </ul>
 
  </span>
-
- - 🔭 I’m currently working on self improvement.
- - 🌱 I’m currently learning golang.
 
  <h2> My stats </h2>
  <div>

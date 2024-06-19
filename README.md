@@ -9,12 +9,37 @@
 
  <a href="https://gitlab.com/JackMaarek"/><img src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab.com" ></a>
 
- <p>Young developer with serveral experiences in:</p>
+<h2>Specializaion</h2>
+<ul>
+    <li>IT operations automation : 
+        <ul>
+            <li>Provisioning of infrastructure components</li>
+            <li>CI/CD pipelines</li>
+            <li>Monitoring & Alerting solutions</li>
+        </ul>
+    </li>
+    <li>Software architecture : 
+        <ul>
+            <li>Object Oriented Programming</li>
+            <li>TestDrivenDesign</li>
+            <li>DomainDrivenDesign</li>
+        </ul>
+    </li>
+    <li>Methodologies:
+      <ul>
+        <li>Agile</li>
+        <li>Scrum</li>
+        <li>Lean</li>
+      </ul>
+    </li>
+</ul>
+
+ <p>I love working on/p>
    <ul>
      <li>Dev Backend</li>
      <li>DevOps</li>
+     <li>DevOps</li>
      <li>Blockchain</li>
-     <li>Real Estate</li>
    </ul>
 
  </span>
